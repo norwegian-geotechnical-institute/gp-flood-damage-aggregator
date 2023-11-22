@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: gp-flood-damage-aggregator
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Erlend Briseid
+    family-names: Storrøsten
+    email: erlend.briseid.storrosten@ngi.no
+    affiliation: Norwegian Geotechnical Institute
+    orcid: 'https://orcid.org/0000-0002-6549-6268'
+repository-code: >-
+  https://github.com/norwegian-geotechnical-institute/gp-flood-damage-aggregator
+keywords:
+  - Risk assessment
+  - Gaussian processes
+  - Flood damage
+license: MIT
