@@ -2,7 +2,7 @@
 
 This repository contains a complete set of scripts and notebooks applied to estimate the *Expected Annual Damage* (EAD) to roads asociated with river floods (in Portugal). The framework may be adapted to other regions and other types of hazards, if represented by some hazard intensity parameters associated with a damage function. To estimate the uncertainty associated with the EAD, the damage is modeled as a spatial random field. The spatial correlation of this random field is decisive to the uncertainty of the EAD. To this end, Gaussian Processes are used to embed the uncertainty associated with the flood damage function with a spatial correlation.
 
-The methodology is described in the article *Uncertainty in flood risk assessment of linear structures: Why correlation matters*.
+The methodology is described in the article [*Uncertainty in flood risk assessment of linear structures: Why correlation matters*](https://doi.org/10.1016/j.jhydrol.2023.130442).
 
 ## Data
 All the data used for the analysis is freely available. Where to find it, and how to download it is described below.
